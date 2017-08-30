@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 9 resources" deleteContents="false" description="Delete 9 resources" element1="/spring4-groovy" element2="/spring4.1-async" element3="/spring4.1-cache" element4="/spring4.1-dbtest" element5="/spring4.1-event" element6="/spring4.1-htmlunit" element7="/spring4.1-mvc" element8="/spring4.1-others" element9="/spring4.1-resource" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="9" stamp="1500620780633"/>
+</session>
